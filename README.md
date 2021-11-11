@@ -4,13 +4,22 @@
 ## 线上快速体验：
 [DEMO](http://jiaying.iinside.cn:10301/)
 
-## 预训练模型下载：
+## 合成器预训练模型下载：
 [百度网盘](https://pan.baidu.com/s/1JZ99y5wzbKrowFdZVl9r7Q)  提取码：sdd5
 
 [google drive](https://drive.google.com/file/d/1tpQMQ36qGg_SNWKbM0WNYEcKrUt84pAE/view?usp=sharing)
 
-## COLAB演示：
-WORKING...
+## vocoder 预训练模型下载：
+[百度网盘](https://pan.baidu.com/s/1Ytx8W87_uacCNEzYge8SIw）提取码：72qh
+
+[google drive](https://drive.google.com/file/d/174SieJdc4wOQSY3GtedH0aGfSaUTb8A8/view?usp=sharing)
+
+## 如何运行推理？
+[COLAB演示](https://colab.research.google.com/drive/1JEclPKpYgxl1PRMhqG1l4zwPuoyWsGh9#scrollTo=gxBDa1JA4iqj)
+
+## 如何训练？
+参照[babysor/MockingBird ](https://github.com/babysor/MockingBird)
+
 
 
 # Real-Time Voice Cloning
