@@ -15,7 +15,7 @@
 [google drive](https://drive.google.com/file/d/174SieJdc4wOQSY3GtedH0aGfSaUTb8A8/view?usp=sharing)
 
 ## 如何运行推理？
-[COLAB演示](https://colab.research.google.com/drive/1JEclPKpYgxl1PRMhqG1l4zwPuoyWsGh9#scrollTo=gxBDa1JA4iqj)
+[COLAB演示](https://colab.research.google.com/drive/1JEclPKpYgxl1PRMhqG1l4zwPuoyWsGh9?usp=sharing)
 如上colab不方便，也可以直接使用jupyter notebook本地运行repo中的.ipynb脚本。
 注：预训练模型仅为演示，更好的效果需要再训练。
 
