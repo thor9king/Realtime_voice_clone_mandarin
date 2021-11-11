@@ -16,6 +16,8 @@
 
 ## 如何运行推理？
 [COLAB演示](https://colab.research.google.com/drive/1JEclPKpYgxl1PRMhqG1l4zwPuoyWsGh9#scrollTo=gxBDa1JA4iqj)
+如上colab不方便，也可以直接使用jupyter notebook本地运行repo中的.ipynb脚本。
+注：预训练模型仅为演示，更好的效果需要再训练。
 
 ## 如何训练？
 参照[babysor/MockingBird ](https://github.com/babysor/MockingBird)
