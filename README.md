@@ -1,6 +1,15 @@
 # Realtime_voice_clone_mandarin
 从仅支持英语的[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 分叉
-中文训练源于 [babysor/MockingBird ](https://github.com/babysor/MockingBird)
+中文训练代码源于 [babysor/MockingBird ](https://github.com/babysor/MockingBird)
+## 线上快速体验：
+[DEMO](http://jiaying.iinside.cn:10301/)
+
+## 预训练模型下载：
+[百度网盘](https://pan.baidu.com/s/1JZ99y5wzbKrowFdZVl9r7Q)  提取码：sdd5
+[google drive](https://drive.google.com/file/d/1tpQMQ36qGg_SNWKbM0WNYEcKrUt84pAE/view?usp=sharing)
+
+## COLAB演示：
+WORKING...
 
 
 # Real-Time Voice Cloning
