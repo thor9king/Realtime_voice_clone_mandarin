@@ -6,6 +6,7 @@
 
 ## 预训练模型下载：
 [百度网盘](https://pan.baidu.com/s/1JZ99y5wzbKrowFdZVl9r7Q)  提取码：sdd5
+
 [google drive](https://drive.google.com/file/d/1tpQMQ36qGg_SNWKbM0WNYEcKrUt84pAE/view?usp=sharing)
 
 ## COLAB演示：
